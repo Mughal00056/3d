@@ -1,0 +1,6 @@
+{
+  "name": "Apex 3D Graphics & Motion Store",
+  "description": "Next-generation digital graphics store featuring immersive Three.js showcases, interactive 3D geometry, procedural shaders, kinetic VFX loops, and real-time animation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
